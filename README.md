@@ -4,3 +4,7 @@ Pytorchを用いて航空機の撮像画像から建物地図のセグメンテ�
 詳細は以下の記事をご参考ください．
 
 https://qiita.com/nigo1973/items/1d7495a963c23c97189c
+
+手順
+１．make_training_data_A.ipynbを実行し，学習および検証用データを準備する．
+２．
